@@ -21,15 +21,15 @@ I have build this using ReactJS library to achieve this challenge.
 
 Desktop Screenshot :
 
-![final-desktop-screen](https://github.com/keerankb/age-calulator/blob/master/public/screenshots/desktop-screen.png)
+![final-desktop-screen](https://raw.githubusercontent.com/keerankb/qr-code-card-react/master/public/screenshots/desktop-screen.png)
 
 Mobile Screenshot :
 
-![final-mobile-screen](https://github.com/keerankb/age-calulator/blob/master/public/screenshots/mobile-screen.png)
+![final-mobile-screen](https://github.com/keerankb/qr-code-card-react/blob/master/public/screenshots/mobile-screen.png?raw=true)
 
 ### Links
 
-- Live Site URL: [Click Here](https://keerankb.github.io/age-calulator/)
+- Live Site URL: [Click Here](https://keerankb.github.io/qr-code-frontend-mentor/)
 
 ## My process
 
