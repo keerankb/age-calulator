@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/qr-code-card-react/static/css/main.35ec7e24.css",
+    "main.js": "/qr-code-card-react/static/js/main.b6c91bf4.js",
+    "static/js/453.c4ac16e2.chunk.js": "/qr-code-card-react/static/js/453.c4ac16e2.chunk.js",
+    "index.html": "/qr-code-card-react/index.html",
+    "main.35ec7e24.css.map": "/qr-code-card-react/static/css/main.35ec7e24.css.map",
+    "main.b6c91bf4.js.map": "/qr-code-card-react/static/js/main.b6c91bf4.js.map",
+    "453.c4ac16e2.chunk.js.map": "/qr-code-card-react/static/js/453.c4ac16e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35ec7e24.css",
+    "static/js/main.b6c91bf4.js"
+  ]
+}
