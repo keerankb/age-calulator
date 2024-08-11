@@ -21,15 +21,15 @@ I have build this using ReactJS library to achieve this challenge.
 
 Desktop Screenshot :
 
-![final-desktop-screen]()
+![final-desktop-screen](https://github.com/keerankb/age-calulator/blob/master/public/screenshots/desktop-screen.png)
 
 Mobile Screenshot :
 
-![final-mobile-screen]()
+![final-mobile-screen](https://github.com/keerankb/age-calulator/blob/master/public/screenshots/mobile-screen.png)
 
 ### Links
 
-- Live Site URL: [Click Here]()
+- Live Site URL: [Click Here](https://keerankb.github.io/age-calulator/)
 
 ## My process
 
